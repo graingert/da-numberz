@@ -1,0 +1,24 @@
+{
+  "name": "da-numberz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graingert/da-numberz.git"
+  },
+  "keywords": [
+    "numbers",
+    "the",
+    "da"
+  ],
+  "author": "Thomas Grainger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graingert/da-numberz/issues"
+  },
+  "homepage": "https://github.com/graingert/da-numberz#readme"
+}
